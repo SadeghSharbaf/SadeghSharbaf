@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="./Gemini_Generated_Image_jeqrbdjeqrbdjeqar.png" alt="banner" />
+  <img src="./Sadehg's Logo.png" alt="banner" />
 </div>
 
 ## 💫 About Me
