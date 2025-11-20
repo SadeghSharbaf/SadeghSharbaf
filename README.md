@@ -13,8 +13,7 @@
 🌱 Always learning and improving, with a passion for backend engineering
 
 <br>
-
-<img src="https://raw.githubusercontent.com/SadeghSharbaf/SadeghSharbaf/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/arvinmaroufi/arvinmaroufi/output/snake.svg" alt="Snake animation" />
 
 <br>
 
