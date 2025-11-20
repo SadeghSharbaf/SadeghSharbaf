@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="./Gemini_Generated_Image_xgg74kxgg74kxgg7.png" alt="banner" />
+  <img src="./Gemini_Generated_Image_xgg74kxgg74kxg227.png" alt="banner" />
 </div>
 
 ## 💫 About Me
