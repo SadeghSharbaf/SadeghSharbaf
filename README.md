@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="./Sadegh's Logo.png" alt="banner" />
+  <img src="./Sadegh's Logo1.png" alt="banner" />
 </div>
 
 ## 💫 About Me
