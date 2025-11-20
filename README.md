@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**SadeghSharbaf/SadeghSharbaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div align="center">
   <img src="./banner.jpg" alt="banner" />
 </div>
