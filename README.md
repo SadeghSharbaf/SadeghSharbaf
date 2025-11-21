@@ -1,4 +1,47 @@
-## Hi there 👋
+<div style="width:100%;display:flex;justify-content:center;padding:40px 0;background:#0b0b0b;">
+  <div style="
+      width: min(900px, 95%);
+      padding: 42px;
+      border-radius: 12px;
+      background-image: url('/mnt/data/A_digital_graphic_design_banner_features_a_dark_th.png');
+      background-size: cover;
+      background-position: center;
+      box-shadow: 0 8px 30px rgba(2,6,23,0.7);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+  ">
+    <div style="backdrop-filter: blur(6px); padding: 22px 28px; border-radius:8px; width:100%; max-width:820px;">
+      <h2 style="
+          margin:0;
+          font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+          font-weight:700;
+          font-size:26px;
+          line-height:1.25;
+          text-align:center;
+          color: #eaf2ff;
+          background: linear-gradient(90deg,#3aa0ff,#6cc0ff);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          filter: drop-shadow(0 6px 18px rgba(0,0,0,0.7));
+      ">
+        We are what we repeatedly do;
+      </h2>
+      <p style="
+          margin:12px 0 0 0;
+          text-align:center;
+          font-family: 'Courier New', Courier, monospace;
+          color:#cfd8e6;
+          font-size:18px;
+      ">
+        excellence, then, is not an act, but a habit.
+      </p>
+      <p style="margin:14px 0 0 0;text-align:center;color:#94b6e6;font-size:13px;">
+        — Aristotle
+      </p>
+
+  </div>
+</div>
 
 <div align="center">
   <img src="./Sadegh's Logo1.png" alt="banner" />
@@ -98,47 +141,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SadeghSharbaf&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-<div style="width:100%;display:flex;justify-content:center;padding:40px 0;background:#0b0b0b;">
-  <div style="
-      width: min(900px, 95%);
-      padding: 42px;
-      border-radius: 12px;
-      background-image: url('/mnt/data/A_digital_graphic_design_banner_features_a_dark_th.png');
-      background-size: cover;
-      background-position: center;
-      box-shadow: 0 8px 30px rgba(2,6,23,0.7);
-      display:flex;
-      align-items:center;
-      justify-content:center;
-  ">
-    <div style="backdrop-filter: blur(6px); padding: 22px 28px; border-radius:8px; width:100%; max-width:820px;">
-      <h2 style="
-          margin:0;
-          font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-          font-weight:700;
-          font-size:26px;
-          line-height:1.25;
-          text-align:center;
-          color: #eaf2ff;
-          background: linear-gradient(90deg,#3aa0ff,#6cc0ff);
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-          filter: drop-shadow(0 6px 18px rgba(0,0,0,0.7));
-      ">
-        We are what we repeatedly do;
-      </h2>
-      <p style="
-          margin:12px 0 0 0;
-          text-align:center;
-          font-family: 'Courier New', Courier, monospace;
-          color:#cfd8e6;
-          font-size:18px;
-      ">
-        excellence, then, is not an act, but a habit.
-      </p>
-      <p style="margin:14px 0 0 0;text-align:center;color:#94b6e6;font-size:13px;">
-        — Aristotle
-      </p>
 
-  </div>
-</div>
