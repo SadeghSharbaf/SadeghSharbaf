@@ -49,7 +49,7 @@
 
 ## 💫 About Me
 👨‍💻 Backend Developer (Python / Django / DRF)  
-🚀 1.5+ years building scalable backend systems and RESTful APIs  
+🚀 3+ years building scalable backend systems and RESTful APIs  
 🎯 Focused on clean code, modular architecture, and best practices  
 📚 Experienced in database design, Dockerized environments and async processing with Celery/Redis  
 🔧 Tech Stack: Python, Django, Django REST Framework, PostgreSQL & more  
