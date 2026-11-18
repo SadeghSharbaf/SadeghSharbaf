@@ -1,173 +1,270 @@
+
 <div align="center">
-  <img src="./profile-banner.svg" alt="Sadegh Sharbaf — Software Developer, Backend Engineer, AI Integration" width="100%" />  <p>
-    <strong>Software Developer</strong> · <strong>Backend Engineer</strong> · <strong>AI Integration</strong>
-  </p>  <p>
-    I design and build software applications, engineer reliable backend systems,<br />
-    and integrate AI to make products, workflows, and business systems smarter.
-  </p>  <p>
-    <a href="https://www.linkedin.com/in/sadeghsharbaf/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://t.me/sadeghsgalaxy">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="mailto:mohammadsadeghsherbaf@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/SadeghSharbaf">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-</div>About Me
-I'm a software developer with 3+ years of experience designing and developing software products and applications. My core background is in backend engineering, and I also focus on integrating AI capabilities into software to create smarter applications, automate workflows, and improve how people interact with systems.
 
-I enjoy turning complex requirements into maintainable products — from backend architecture and APIs to data layers, asynchronous processing, and practical AI integration.
-Featured Projects
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>UKala — Hybrid Marketplace</h3>
-      <p>
-        A multi-vendor marketplace concept that brings together local retail, wholesale purchasing, and verified partner sellers in one platform.
-      </p>
-      <p><strong>My focus</strong></p>
-      <ul>
-        <li>Backend architecture and modular application design</li>
-        <li>Customer, seller, and admin workflows</li>
-        <li>Geographic and location-aware marketplace foundations</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
-      </p>
-      <p><a href="https://github.com/SadeghSharbaf/Sofware-Ukala"><strong>↗ View public repository</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>WebSCADA — Industrial Automation</h3>
-      <p>
-        An industrial monitoring and automation platform focused on connecting software workflows with PLC devices and operational data.
-      </p>
-      <p><strong>My focus</strong></p>
-      <ul>
-        <li>PLC connections, tag management, and script execution</li>
-        <li>Worker execution lifecycle and reliable task ownership</li>
-        <li>Redis-backed coordination and event-driven processing</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
-        <img src="https://img.shields.io/badge/Siemens%20PLC-009999?style=flat-square" alt="Siemens PLC" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>WHEREWEAR — AI Outfit Assistant</h3>
-      <p>
-        An intelligent clothing recommendation application that helps users choose outfits using context such as weather, personal preferences, and wardrobe items.
-      </p>
-      <p><strong>My focus</strong></p>
-      <ul>
-        <li>Outfit recommendation workflows and preference-aware logic</li>
-        <li>AI-assisted clothing image understanding</li>
-        <li>Connecting AI capabilities to application APIs</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini AI" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Telegram Central Reply — AI Automation</h3>
-      <p>
-        An AI-assisted reply system for a personal Telegram account, designed to understand incoming private messages and respond using contextual knowledge.
-      </p>
-      <p><strong>My focus</strong></p>
-      <ul>
-        <li>Personal-account integration using MTProto</li>
-        <li>Knowledge-base grounded response generation</li>
-        <li>Message handling with cooldown and usage controls</li>
-        <li>Image and voice message understanding</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Telethon-26A5E4?style=flat-square" alt="Telethon" />
-        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq" />
-        <img src="https://img.shields.io/badge/LLM%20Integration-8250DF?style=flat-square" alt="LLM Integration" />
-      </p>
-    </td>
-  </tr>
-</table>What I Work On
-Area	Focus
-Software & Application Development	Designing and building practical, maintainable software products
-Backend Engineering	Modular architecture, RESTful APIs, business logic, and service development
-AI Integration	Bringing AI capabilities into existing applications and new products
-Intelligent Systems	Automating workflows and making software systems smarter
-Data & Infrastructure	Database design, asynchronous processing, caching, and containerized environments
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:172554,100:2563EB&height=220&section=header&text=Sadegh%20Sharbaf&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=BACKEND%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descAlignY=58&descSize=15&animation=fadeIn" />
 
+<br/>
 
-Tech Stack
-Languages & Backend
+### Building with logic. Growing with curiosity.
+
+I turn complex ideas into clean, reliable and maintainable software.
+
+<br/>
+
+<a href="https://t.me/sadeghsgalaxy">
+<img src="https://img.shields.io/badge/TELEGRAM-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="mailto:mohammadsadeghsharbaf@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/SadeghSharbaf">
+<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/3%2B%20Years-Experience-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Always-Learning-16A34A?style=flat-square"/>
+
+</div>
+
+---
+
+## 01 / About Me
+
+Hey! I'm **Sadegh Sharbaf**.
+
+I'm a Backend Developer with 3+ years of experience in designing and developing software applications, primarily using Python and Django.
+
+I enjoy understanding problems deeply, designing reliable architectures, and turning complicated requirements into maintainable solutions.
+
+For me, software engineering is not just about writing code. It's about understanding how things work, making thoughtful decisions, and building systems that can evolve without becoming difficult to maintain.
+
+**A few things that describe me:**
+
+- Curious about how technology works under the hood.
+- Interested in software architecture and engineering principles.
+- Passionate about backend development and clean code.
+- Always exploring new ideas, technologies and better ways to solve problems.
+
+---
+
+## 02 / My Engineering Mindset
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### ◈ Think Deeply
+
+Understand the problem before choosing the technology.
+
+</td>
+<td width="33%" valign="top">
+
+### ◈ Build Carefully
+
+Prefer maintainability, reliability and simplicity over unnecessary complexity.
+
+</td>
+<td width="33%" valign="top">
+
+### ◈ Keep Exploring
+
+Learn continuously, experiment with ideas and challenge assumptions.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 / Areas of Interest
+
+| Area | What fascinates me |
+|:---|:---|
+| Backend Engineering | Designing reliable services and APIs |
+| Software Architecture | Modular systems and maintainable design |
+| Database Engineering | Data modeling, optimization and consistency |
+| Distributed Systems | Asynchronous processing and system reliability |
+| Artificial Intelligence | LLMs, AI algorithms and practical integration |
+| Problem Solving | Breaking complex problems into understandable pieces |
+
+---
+
+## 04 / My Tech Stack
+
+**Languages & Backend**
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>Databases, Processing & Infrastructure
+<img src="https://skillicons.dev/icons?i=python,django,html,css&theme=dark" />
+</p>
+
+**Databases & Infrastructure**
+
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>Development Tools
+<img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,docker&theme=dark" />
+</p>
+
+**Development Tools**
+
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>Engineering Principles
-- Modular architecture — building systems that are easier to extend and maintain
-- Clean and reliable APIs — keeping integrations predictable and consistent
-- Thoughtful data design — choosing structures that support real application needs
-- Practical problem solving — selecting technology based on the problem, not the trend
-- Continuous learning — improving through building, reviewing, and experimenting
-GitHub Activity
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&theme=dark" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+</p>
+
+---
+
+## 05 / Currently Exploring
+
+I'm especially interested in understanding the technologies that are shaping the future of software engineering.
+
+- Large Language Models (LLMs)
+- Artificial Intelligence & Machine Learning
+- Neural Networks and their underlying algorithms
+- System Design and Distributed Architecture
+- Intelligent software and automation
+
+I believe the best way to learn something is to understand it deeply enough to explain it simply.
+
+---
+
+## 06 / The Debugging Room
+
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SadeghSharbaf&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
-    height="165"
-    alt="Sadegh's GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeghSharbaf&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-    height="165"
-    alt="Most used programming languages"
-  />
-</div><div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SadeghSharbaf&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
-    width="70%"
-    alt="GitHub contribution streak"
-  />
-</div><div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SadeghSharbaf&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
-</div><div align="center">
-  <h3>Let's Build Something Meaningful.</h3>
-  <p>Have an idea, a software challenge, or an opportunity to collaborate?</p>
-  <a href="mailto:mohammadsadeghsherbaf@gmail.com">
-    <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-2389DA?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Get in touch" />
-  </a>
-  <br /><br />
-  <sub>Building · Learning · Improving</sub>
+
+### <code>ACCESS GRANTED // LOGIC CHALLENGE</code>
+
+**Think like an engineer. Can you solve all three levels?**
+
+`3 LEVELS` · `3 POINTS` · `NO CHEATING`
+
+</div>
+
+<details>
+<summary><b>LEVEL 01 — The Boolean Trap</b> · Beginner</summary>
+
+What will this Python code print?
+
+```python
+print(bool([]), bool("0"))
+```
+
+<details>
+<summary>🔓 Reveal the answer</summary>
+
+```text
+False True
+```
+
+**Why?**
+
+An empty list is falsy, but a non-empty string is truthy, even when its content is `"0"`.
+
+</details>
+</details>
+
+<details>
+<summary><b>LEVEL 02 — Operator Mystery</b> · Intermediate</summary>
+
+What is the output?
+
+```python
+print(2 ** 3 ** 2)
+```
+
+<details>
+<summary>🔓 Reveal the answer</summary>
+
+```text
+512
+```
+
+**Why?**
+
+Exponentiation in Python is right-associative:
+
+```python
+2 ** (3 ** 2)
+= 2 ** 9
+= 512
+```
+
+</details>
+</details>
+
+<details>
+<summary><b>LEVEL 03 — Decode the Signal</b> · Advanced</summary>
+
+A mysterious binary message has arrived:
+
+```text
+01010011
+```
+
+Decode it using ASCII.
+
+Which character does it represent?
+
+<details>
+<summary>🔓 Reveal the answer</summary>
+
+```text
+S
+```
+
+Binary `01010011` equals decimal `83`, which represents uppercase `S` in ASCII.
+
+**Congratulations! You found the hidden initial of Sadegh Sharbaf.**
+
+</details>
+</details>
+
+<div align="center">
+
+**YOUR SCORE**
+
+| Score | Rank |
+|:---:|:---|
+| 0–1 | Curious Beginner |
+| 2 | Logic Explorer |
+| 3 | Debugging Master |
+
+*Curiosity is the real superpower.*
+
+</div>
+
+---
+
+## 07 / A Little More About Me
+
+I enjoy learning, exploring new technologies and understanding the ideas behind the tools I use.
+
+I believe that good engineers are not defined only by the technologies they know, but by how they think, learn and approach unfamiliar problems.
+
+**Stay curious. Keep building. Never stop learning.**
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+Have an interesting idea, technical question or just want to talk about technology?
+
+<a href="https://t.me/sadeghsgalaxy">
+<img src="https://img.shields.io/badge/LET'S_TALK-Connect_on_Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<sub>Designed with curiosity & built with passion.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:09090B&height=100&section=footer"/>
+
 </div>
