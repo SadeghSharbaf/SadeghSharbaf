@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+  <title id="title">Sadegh Sharbaf — Software Developer</title>
+  <desc id="desc">Dark electric-blue technology banner with a luminous geometric S emblem and software engineering tagline.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#02070D"/>
+      <stop offset=".58" stop-color="#061322"/>
+      <stop offset="1" stop-color="#020811"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#A6F3FF"/>
+      <stop offset=".35" stop-color="#19C8FF"/>
+      <stop offset="1" stop-color="#0872E8"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F5FAFF"/>
+      <stop offset="1" stop-color="#16BDF5"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#008CFF" stop-opacity=".30"/>
+      <stop offset="1" stop-color="#008CFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="500" fill="url(#bg)"/>
+  <ellipse cx="365" cy="250" rx="350" ry="290" fill="url(#halo)"/>
+  <g fill="none" stroke="#087FC1" opacity=".24">
+    <path d="M0 405H1600M0 430H1600M0 455H1600"/>
+    <path d="M80 500L400 350L720 500M0 470L260 350L520 470M1100 500L1390 360L1600 465"/>
+    <circle cx="360" cy="245" r="205" stroke-dasharray="3 12"/>
+    <circle cx="360" cy="245" r="175" stroke-dasharray="2 9"/>
+  </g>
+  <g transform="translate(130 72)" fill="none" stroke="url(#blue)" stroke-linejoin="round">
+    <path d="M245 12L390 95V257L245 340L100 257V95Z" stroke-width="5" opacity=".9"/>
+    <path d="M245 53L352 115V237L245 299L138 237V115Z" stroke-width="2" opacity=".75"/>
+    <path d="M306 120H235L185 149V190L307 190L356 219V258L305 286H205" stroke-width="19" stroke-linecap="square"/>
+    <path d="M306 120H235L185 149V190L307 190L356 219V258L305 286H205" stroke="#061322" stroke-width="8" stroke-linecap="square"/>
+    <path d="M100 176H48L18 206M390 176H445L475 146M245 12V-18M245 340V372" stroke-width="3"/>
+    <circle cx="18" cy="206" r="6" fill="#16C8FF" stroke="none"/>
+    <circle cx="475" cy="146" r="6" fill="#16C8FF" stroke="none"/>
+    <circle cx="245" cy="-18" r="5" fill="#16C8FF" stroke="none"/>
+    <circle cx="245" cy="372" r="5" fill="#16C8FF" stroke="none"/>
+  </g>
+  <g fill="none" stroke="#12BFFF" opacity=".65">
+    <path d="M30 330H150L205 275M530 165H615L660 120M535 360H620L675 415" stroke-width="2"/>
+    <circle cx="150" cy="330" r="4" fill="#12BFFF"/>
+    <circle cx="615" cy="165" r="4" fill="#12BFFF"/>
+    <circle cx="620" cy="360" r="4" fill="#12BFFF"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="690" y="208" font-size="82" font-weight="700" letter-spacing="-2" fill="url(#name)">Sadegh Sharbaf</text>
+    <text x="695" y="270" font-size="28" font-weight="500" letter-spacing="1.2" fill="#D8EAF7">SOFTWARE DEVELOPER  <tspan fill="#16BDF5">•</tspan>  BACKEND ENGINEER  <tspan fill="#16BDF5">•</tspan>  AI INTEGRATION</text>
+    <path d="M695 306H1490" stroke="url(#blue)" stroke-width="2"/>
+    <circle cx="1090" cy="306" r="5" fill="#B5F4FF"/>
+    <text x="695" y="366" font-size="27" font-style="italic" fill="#B8CDE0">Building reliable systems with logic, curiosity, and intelligent software.</text>
+    <text x="695" y="432" font-size="15" letter-spacing="4" fill="#168FCB">ARCHITECTURE  /  ENGINEERING  /  CONTINUOUS LEARNING</text>
+  </g>
+  <path d="M0 490Q240 430 470 490T930 490T1390 490T1800 490" fill="none" stroke="#087FC1" stroke-width="2" opacity=".5"/>
+</svg>

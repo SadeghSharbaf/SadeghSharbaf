@@ -1,31 +1,29 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:172554,100:2563EB&height=220&section=header&text=Sadegh%20Sharbaf&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=BACKEND%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descAlignY=58&descSize=15&animation=fadeIn" />
+<img src="./assets/sadegh-sharbaf-banner.svg" width="100%" alt="Sadegh Sharbaf — Software Developer, Backend Engineer, AI Integration" />
 
 <br/>
 
-### Building with logic. Growing with curiosity.
+### Building reliable software with logic, curiosity, and intelligent systems.
 
-I turn complex ideas into clean, reliable and maintainable software.
+**Software Developer** · **Backend Engineer** · **AI Integration**
 
 <br/>
 
-<a href="https://t.me/sadeghsgalaxy">
-<img src="https://img.shields.io/badge/TELEGRAM-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="mailto:mohammadsadeghsherbaf@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-00B8F0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="mailto:mohammadsadeghsharbaf@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sadeghsharbaf/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/SadeghSharbaf">
-<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/3%2B%20Years-Experience-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Always-Learning-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/3%2B%20Years-Software%20Development-087FC1?style=flat-square" alt="3+ years of software development" />
+<img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-087FC1?style=flat-square" alt="Backend and AI focus" />
 
 </div>
 
@@ -33,238 +31,172 @@ I turn complex ideas into clean, reliable and maintainable software.
 
 ## 01 / About Me
 
-Hey! I'm **Sadegh Sharbaf**.
+I'm **Sadegh Sharbaf**, a software developer with **3+ years of experience** in software and application development.
 
-I'm a Backend Developer with 3+ years of experience in designing and developing software applications, primarily using Python and Django.
+My core focus is **backend engineering with Python and Django**, supported by a strong interest in **software architecture, system design, and practical AI/LLM integration**. I enjoy turning complex requirements into clear designs, dependable services, and maintainable software.
 
-I enjoy understanding problems deeply, designing reliable architectures, and turning complicated requirements into maintainable solutions.
+I care about understanding *why* a system should work a certain way—not just making it work.
 
-For me, software engineering is not just about writing code. It's about understanding how things work, making thoughtful decisions, and building systems that can evolve without becoming difficult to maintain.
+## 02 / Engineering Mindset
 
-**A few things that describe me:**
-
-- Curious about how technology works under the hood.
-- Interested in software architecture and engineering principles.
-- Passionate about backend development and clean code.
-- Always exploring new ideas, technologies and better ways to solve problems.
-
----
-
-## 02 / My Engineering Mindset
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### ◈ Think Deeply
-
-Understand the problem before choosing the technology.
-
-</td>
-<td width="33%" valign="top">
-
-### ◈ Build Carefully
-
-Prefer maintainability, reliability and simplicity over unnecessary complexity.
-
-</td>
-<td width="33%" valign="top">
-
-### ◈ Keep Exploring
-
-Learn continuously, experiment with ideas and challenge assumptions.
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>◈ Understand</h3>
+      Start with the problem, constraints, and system boundaries before choosing a solution.
+    </td>
+    <td width="33%" valign="top">
+      <h3>◈ Architect</h3>
+      Favor clear responsibilities, reliable interfaces, and designs that can evolve.
+    </td>
+    <td width="33%" valign="top">
+      <h3>◈ Improve</h3>
+      Validate assumptions, learn continuously, and keep complexity intentional.
+    </td>
+  </tr>
 </table>
 
----
-
-## 03 / Areas of Interest
-
-| Area | What fascinates me |
-|:---|:---|
-| Backend Engineering | Designing reliable services and APIs |
-| Software Architecture | Modular systems and maintainable design |
-| Database Engineering | Data modeling, optimization and consistency |
-| Distributed Systems | Asynchronous processing and system reliability |
-| Artificial Intelligence | LLMs, AI algorithms and practical integration |
-| Problem Solving | Breaking complex problems into understandable pieces |
-
----
-
-## 04 / My Tech Stack
-
-**Languages & Backend**
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,html,css&theme=dark" />
-</p>
-
-**Databases & Infrastructure**
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,docker&theme=dark" />
-</p>
-
-**Development Tools**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&theme=dark" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
-</p>
-
----
-
-## 05 / Currently Exploring
-
-I'm especially interested in understanding the technologies that are shaping the future of software engineering.
-
-- Large Language Models (LLMs)
-- Artificial Intelligence & Machine Learning
-- Neural Networks and their underlying algorithms
-- System Design and Distributed Architecture
-- Intelligent software and automation
-
-I believe the best way to learn something is to understand it deeply enough to explain it simply.
-
----
-
-## 06 / The Debugging Room
+## 03 / Tech Stack
 
 <div align="center">
 
-### <code>ACCESS GRANTED // LOGIC CHALLENGE</code>
+**Backend & Languages**
 
-**Think like an engineer. Can you solve all three levels?**
+<img src="https://skillicons.dev/icons?i=python,django&theme=dark" alt="Python and Django" />
 
-`3 LEVELS` · `3 POINTS` · `NO CHEATING`
+**Data & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,docker&theme=dark" alt="PostgreSQL, Redis, SQLite, and Docker" />
+
+**Tools & Web Foundations**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,html,css&theme=dark" alt="Git, GitHub, VS Code, PyCharm, HTML, and CSS" />
+
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-087FC1?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework" />
+<img src="https://img.shields.io/badge/Celery-087FC1?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
 
 </div>
 
-<details>
-<summary><b>LEVEL 01 — The Boolean Trap</b> · Beginner</summary>
+## 04 / Areas of Interest
 
-What will this Python code print?
+- **Backend Development** — APIs, application logic, data access, and asynchronous workloads.
+- **Software Architecture** — modular design, maintainability, and clear system boundaries.
+- **System Design** — scalability, reliability, data flow, and engineering trade-offs.
+- **AI & LLM Integration** — connecting language models to useful software capabilities.
+- **Intelligent Automation** — designing workflows that reduce repetitive work and improve decisions.
+
+## 05 / Currently Exploring
+
+My current learning focus is on the foundations and practical engineering patterns behind:
+
+- Large Language Models and how they work.
+- Integrating AI capabilities into backend applications.
+- Intelligent workflows, tool use, and automation.
+- Machine learning foundations and neural networks.
+- Distributed systems and deeper system-design concepts.
+
+## 06 / GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SadeghSharbaf&show_icons=true&hide_border=true&bg_color=0D1117&title_color=18BFFF&text_color=C9D1D9&icon_color=18BFFF&rank_icon=github" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeghSharbaf&layout=compact&hide_border=true&bg_color=0D1117&title_color=18BFFF&text_color=C9D1D9" alt="Most used languages on GitHub" />
+
+<br/>
+
+<img width="88%" src="https://streak-stats.demolab.com?user=SadeghSharbaf&hide_border=true&background=0D1117&ring=18BFFF&fire=18BFFF&currStreakLabel=18BFFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SadeghSharbaf&bg_color=0D1117&color=C9D1D9&line=18BFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+## 07 / Developer Mind Game
+
+<details>
+<summary><strong>LEVEL 01 — The Boolean Trap</strong> · Beginner</summary>
+
+What does this Python expression print?
 
 ```python
 print(bool([]), bool("0"))
 ```
 
 <details>
-<summary>🔓 Reveal the answer</summary>
+<summary>Reveal answer</summary>
 
 ```text
 False True
 ```
 
-**Why?**
-
-An empty list is falsy, but a non-empty string is truthy, even when its content is `"0"`.
+An empty list is falsy. A non-empty string is truthy—even when its content is the character `0`.
 
 </details>
 </details>
 
 <details>
-<summary><b>LEVEL 02 — Operator Mystery</b> · Intermediate</summary>
+<summary><strong>LEVEL 02 — Operator Mystery</strong> · Intermediate</summary>
 
-What is the output?
+What is the result?
 
 ```python
 print(2 ** 3 ** 2)
 ```
 
 <details>
-<summary>🔓 Reveal the answer</summary>
+<summary>Reveal answer</summary>
 
 ```text
 512
 ```
 
-**Why?**
-
-Exponentiation in Python is right-associative:
-
-```python
-2 ** (3 ** 2)
-= 2 ** 9
-= 512
-```
+Exponentiation is right-associative in Python: `2 ** (3 ** 2) = 2 ** 9 = 512`.
 
 </details>
 </details>
 
 <details>
-<summary><b>LEVEL 03 — Decode the Signal</b> · Advanced</summary>
+<summary><strong>LEVEL 03 — Decode the Signal</strong> · Advanced</summary>
 
-A mysterious binary message has arrived:
+Decode this 8-bit binary value using ASCII:
 
 ```text
 01010011
 ```
 
-Decode it using ASCII.
-
-Which character does it represent?
-
 <details>
-<summary>🔓 Reveal the answer</summary>
+<summary>Reveal answer</summary>
 
 ```text
 S
 ```
 
-Binary `01010011` equals decimal `83`, which represents uppercase `S` in ASCII.
-
-**Congratulations! You found the hidden initial of Sadegh Sharbaf.**
+Binary `01010011` is decimal `83`, which maps to uppercase `S` in ASCII.
 
 </details>
 </details>
 
 <div align="center">
 
-**YOUR SCORE**
-
-| Score | Rank |
-|:---:|:---|
-| 0–1 | Curious Beginner |
-| 2 | Logic Explorer |
-| 3 | Debugging Master |
-
-*Curiosity is the real superpower.*
+*Curiosity is the best debugging tool. How many did you solve?*
 
 </div>
 
 ---
 
-## 07 / A Little More About Me
-
-I enjoy learning, exploring new technologies and understanding the ideas behind the tools I use.
-
-I believe that good engineers are not defined only by the technologies they know, but by how they think, learn and approach unfamiliar problems.
-
-**Stay curious. Keep building. Never stop learning.**
-
----
-
 <div align="center">
 
-### Let's Connect
+### Let's Build Something Meaningful.
 
-Have an interesting idea, technical question or just want to talk about technology?
+Open to thoughtful conversations about backend engineering, system design, and applied AI.
 
-<a href="https://t.me/sadeghsgalaxy">
-<img src="https://img.shields.io/badge/LET'S_TALK-Connect_on_Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="mailto:mohammadsadeghsherbaf@gmail.com">
+  <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-00B8F0?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Get in touch" />
 </a>
 
 <br/><br/>
 
-<sub>Designed with curiosity & built with passion.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:09090B&height=100&section=footer"/>
+<sub>Designed with curiosity · Engineered with intention</sub>
 
 </div>
