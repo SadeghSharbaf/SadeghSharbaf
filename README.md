@@ -13,6 +13,10 @@
 <a href="mailto:mohammadsadeghsherbaf@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=18BFFF" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/sadeghsharbaf/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=18BFFF" alt="LinkedIn" /></a>
 <a href="https://github.com/SadeghSharbaf"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=18BFFF" alt="GitHub" /></a>
+<a href="https://t.me/sadeghsgalaxy">
+  <img src="https://img.shields.io/badge/Telegram-111827?style=flat-square&logo=telegram&logoColor=18BFFF"
+       alt="Telegram" />
+</a>
 
 <sub>3+ years in software and application development · Backend · Architecture · Applied AI</sub>
 
