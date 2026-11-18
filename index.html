@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#050914">
+  <meta name="description" content="Sadegh Sharbaf — Software Developer, Backend Engineer, and AI Integration enthusiast.">
+  <meta property="og:title" content="Sadegh Sharbaf | Software Developer">
+  <meta property="og:description" content="Building reliable systems with logic, curiosity, and intelligent software.">
+  <meta property="og:image" content="assets/sadegh-sharbaf-banner.png">
+  <title>Sadegh Sharbaf — Software Developer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <div class="noise" aria-hidden="true"></div>
+  <canvas id="particle-canvas" aria-hidden="true"></canvas>
+  <div class="mouse-glow" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <a class="brand" href="#home" aria-label="Sadegh Sharbaf home">
+      <span class="brand-mark">S<span>.</span></span>
+      <span class="brand-name">SADEGH <b>SHARBAF</b></span>
+    </a>
+    <nav class="nav-links" aria-label="Main navigation">
+      <a href="#about">About</a>
+      <a href="#focus">Focus</a>
+      <a href="#terminal">Terminal</a>
+      <a href="#challenge">Mind game</a>
+    </nav>
+    <a class="nav-cta" href="https://github.com/SadeghSharbaf" target="_blank" rel="noreferrer">
+      <span>GitHub</span><span aria-hidden="true">↗</span>
+    </a>
+  </header>
+
+  <main id="home">
+    <section class="hero section-shell">
+      <div class="hero-image-wrap reveal">
+        <img class="hero-image" src="assets/sadegh-sharbaf-banner.png" alt="Sadegh Sharbaf — Software Developer, Backend Engineer, AI Integration">
+        <div class="hero-image-shade"></div>
+        <div class="hero-image-caption">
+          <span class="live-dot"></span>
+          <span>PERSONAL PROFILE / 2026</span>
+        </div>
+      </div>
+
+      <div class="hero-intro reveal">
+        <div class="eyebrow"><span class="eyebrow-line"></span> SOFTWARE ENGINEERING · BACKEND · AI</div>
+        <h1>Building things<br><span class="gradient-text">that make sense.</span></h1>
+        <p class="hero-copy">
+          I’m Sadegh — a software developer who enjoys turning complex ideas into
+          reliable systems, thoughtful architecture, and intelligent experiences.
+        </p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#about">Explore my profile <span>↓</span></a>
+          <a class="button button-quiet" href="https://t.me/sadeghsgalaxy" target="_blank" rel="noreferrer">Let’s connect <span>↗</span></a>
+        </div>
+      </div>
+
+      <div class="hero-meta reveal">
+        <div class="meta-item">
+          <span class="meta-label">EXPERIENCE</span>
+          <strong><span data-count="3">3</span><i>+</i> years</strong>
+        </div>
+        <div class="meta-item">
+          <span class="meta-label">CORE LANGUAGE</span>
+          <strong>Python</strong>
+        </div>
+        <div class="meta-item">
+          <span class="meta-label">CURRENT CURIOSITY</span>
+          <strong class="meta-live"><span class="live-dot"></span> LLMs & AI</strong>
+        </div>
+        <div class="meta-clock">
+          <span class="meta-label">YOUR LOCAL TIME</span>
+          <strong id="local-clock">--:--:--</strong>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-shell about-section" id="about">
+      <div class="section-heading reveal">
+        <span class="section-index">01 / ABOUT</span>
+        <h2>More than writing code.</h2>
+        <p>A little about how I think, what I value, and what keeps me curious.</p>
+      </div>
+
+      <div class="about-grid">
+        <article class="about-card glass-card reveal">
+          <div class="card-kicker"><span class="tiny-icon">✳</span> THE DEVELOPER</div>
+          <h3>Curiosity first.<br><span class="muted-heading">Code second.</span></h3>
+          <p>
+            With 3+ years of experience in software and application development,
+            my foundation is backend engineering — especially Python, Django,
+            APIs, databases, and system design.
+          </p>
+          <p>
+            Lately, I’ve been exploring how AI can become a meaningful part of
+            everyday software: not just a feature to show off, but a capability
+            that makes a system genuinely more useful.
+          </p>
+          <div class="signature">— Sadegh</div>
+        </article>
+
+        <article class="principles-card reveal">
+          <div class="principle-row">
+            <span class="principle-number">01</span>
+            <div><h3>Understand deeply</h3><p>Find the real problem before reaching for a solution.</p></div>
+            <span class="principle-symbol">⌕</span>
+          </div>
+          <div class="principle-row">
+            <span class="principle-number">02</span>
+            <div><h3>Build intentionally</h3><p>Choose clarity, reliability, and maintainability.</p></div>
+            <span class="principle-symbol">⌘</span>
+          </div>
+          <div class="principle-row">
+            <span class="principle-number">03</span>
+            <div><h3>Keep questioning</h3><p>Stay curious, experiment, and never stop learning.</p></div>
+            <span class="principle-symbol">↗</span>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section-shell focus-section" id="focus">
+      <div class="section-heading reveal">
+        <span class="section-index">02 / WHAT I CARE ABOUT</span>
+        <h2>Areas of focus<span class="blue-dot">.</span></h2>
+        <p>The engineering disciplines I enjoy learning and working with.</p>
+      </div>
+
+      <div class="focus-grid">
+        <article class="focus-card focus-large reveal">
+          <div class="focus-top"><span class="focus-icon">01</span><span class="focus-tag">FOUNDATION</span></div>
+          <div class="focus-art art-backend" aria-hidden="true"><span>{ }</span><i></i><i></i><i></i></div>
+          <h3>Backend Engineering</h3>
+          <p>APIs, business logic, data modeling, asynchronous processing, and reliable services.</p>
+          <div class="focus-footer"><span>Python</span><span>Django</span><span>REST APIs</span></div>
+        </article>
+
+        <article class="focus-card reveal">
+          <div class="focus-top"><span class="focus-icon">02</span><span class="focus-tag">STRUCTURE</span></div>
+          <div class="focus-art art-architecture" aria-hidden="true"><b></b><b></b><b></b><b></b></div>
+          <h3>Software Architecture</h3>
+          <p>Modular design, clean boundaries, and systems that can evolve.</p>
+          <div class="focus-footer"><span>Modularity</span><span>System Design</span></div>
+        </article>
+
+        <article class="focus-card reveal">
+          <div class="focus-top"><span class="focus-icon">03</span><span class="focus-tag">EXPLORATION</span></div>
+          <div class="focus-art art-ai" aria-hidden="true"><span>AI</span><i></i><i></i><i></i><i></i></div>
+          <h3>AI Integration</h3>
+          <p>LLMs, intelligent workflows, and useful AI capabilities inside software.</p>
+          <div class="focus-footer"><span>LLMs</span><span>Automation</span></div>
+        </article>
+
+        <article class="focus-card reveal">
+          <div class="focus-top"><span class="focus-icon">04</span><span class="focus-tag">FOUNDATIONS</span></div>
+          <div class="focus-art art-data" aria-hidden="true"><span>▤</span><i></i><i></i><i></i></div>
+          <h3>Data & Systems</h3>
+          <p>Database design, caching, consistency, and distributed processing.</p>
+          <div class="focus-footer"><span>PostgreSQL</span><span>Redis</span></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section-shell stack-section">
+      <div class="section-heading reveal">
+        <span class="section-index">03 / TOOLBOX</span>
+        <h2>Tools I speak.</h2>
+        <p>Technologies are tools. Understanding the problem is the real skill.</p>
+      </div>
+      <div class="stack-panel glass-card reveal">
+        <div class="stack-group">
+          <span class="stack-label">LANGUAGES & BACKEND</span>
+          <div class="stack-chips">
+            <span class="stack-chip"><b class="chip-python">Py</b> Python</span>
+            <span class="stack-chip"><b class="chip-django">Dj</b> Django</span>
+            <span class="stack-chip"><b class="chip-api">↗</b> Django REST Framework</span>
+          </div>
+        </div>
+        <div class="stack-group">
+          <span class="stack-label">DATA & PROCESSING</span>
+          <div class="stack-chips">
+            <span class="stack-chip"><b class="chip-postgres">▦</b> PostgreSQL</span>
+            <span class="stack-chip"><b class="chip-redis">◈</b> Redis</span>
+            <span class="stack-chip"><b class="chip-celery">✳</b> Celery</span>
+            <span class="stack-chip"><b class="chip-sqlite">▤</b> SQLite</span>
+          </div>
+        </div>
+        <div class="stack-group">
+          <span class="stack-label">TOOLS & ENVIRONMENT</span>
+          <div class="stack-chips">
+            <span class="stack-chip"><b class="chip-docker">▣</b> Docker</span>
+            <span class="stack-chip"><b class="chip-git">⌘</b> Git</span>
+            <span class="stack-chip"><b class="chip-github">◉</b> GitHub</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-shell terminal-section" id="terminal">
+      <div class="section-heading reveal">
+        <span class="section-index">04 / INTERACTIVE</span>
+        <h2>A little command line.</h2>
+        <p>Want to know more? Don't scroll. Ask the terminal.</p>
+      </div>
+
+      <div class="terminal-window reveal">
+        <div class="terminal-titlebar">
+          <div class="terminal-dots"><i></i><i></i><i></i></div>
+          <span> sadegh@profile:~ </span>
+          <span class="terminal-live"><b></b> INTERACTIVE</span>
+        </div>
+        <div class="terminal-body" id="terminal-output" aria-live="polite">
+          <p class="terminal-welcome">Welcome to Sadegh's profile terminal.</p>
+          <p class="terminal-muted">Type <code>help</code> to see available commands.</p>
+          <p class="terminal-muted">Try <code>about</code>, <code>skills</code>, <code>focus</code>, or <code>clear</code>.</p>
+        </div>
+        <form class="terminal-input-row" id="terminal-form">
+          <label for="terminal-input"><span class="terminal-prompt">visitor@sadegh:~$</span></label>
+          <input id="terminal-input" type="text" autocomplete="off" spellcheck="false" placeholder="type a command..." aria-label="Enter a terminal command">
+          <button type="submit" aria-label="Run command">RUN ↵</button>
+        </form>
+        <div class="terminal-hints">
+          <button type="button" data-command="help">help</button>
+          <button type="button" data-command="about">about</button>
+          <button type="button" data-command="skills">skills</button>
+          <button type="button" data-command="focus">focus</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-shell game-section" id="challenge">
+      <div class="section-heading reveal">
+        <span class="section-index">05 / THE MIND GAME</span>
+        <h2>Think like a developer<span class="blue-dot">.</span></h2>
+        <p>Three quick questions. One small challenge. How sharp is your logic?</p>
+      </div>
+
+      <div class="game-card glass-card reveal">
+        <div class="game-sidebar">
+          <span class="game-label">LOGIC CHECK / 001</span>
+          <div class="game-score"><strong id="game-score">00</strong><span>POINTS</span></div>
+          <div class="game-progress"><span id="game-progress-bar"></span></div>
+          <p id="game-progress-text">QUESTION 01 / 03</p>
+          <div class="game-decoration" aria-hidden="true">?</div>
+        </div>
+        <div class="game-main">
+          <div class="game-topline"><span id="game-category">PYTHON BASICS</span><span class="game-level">LEVEL <b id="game-level">01</b></span></div>
+          <h3 id="game-question">What does <code>bool([])</code> return in Python?</h3>
+          <div class="game-options" id="game-options">
+            <button type="button" class="game-option" data-answer="0"><span>A</span> True</button>
+            <button type="button" class="game-option" data-answer="1"><span>B</span> False</button>
+            <button type="button" class="game-option" data-answer="2"><span>C</span> None</button>
+          </div>
+          <div class="game-feedback" id="game-feedback" aria-live="polite">Choose your answer to continue.</div>
+          <button type="button" class="game-next" id="game-next" disabled>Next question <span>→</span></button>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-shell now-section">
+      <div class="now-card reveal">
+        <div class="now-orb" aria-hidden="true"></div>
+        <div>
+          <span class="section-index">06 / RIGHT NOW</span>
+          <h2>Always in <span class="gradient-text">learning mode.</span></h2>
+          <p>Currently exploring <strong id="rotating-interest">Large Language Models</strong><span class="typing-caret"></span></p>
+        </div>
+        <div class="now-status"><span class="live-dot"></span> OPEN TO IDEAS & CONVERSATIONS</div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer section-shell">
+    <div class="footer-main">
+      <div class="footer-brand"><span class="brand-mark">S<span>.</span></span><div><strong>Sadegh Sharbaf</strong><small>Building · Learning · Improving</small></div></div>
+      <div class="footer-links">
+        <a href="https://github.com/SadeghSharbaf" target="_blank" rel="noreferrer">GitHub ↗</a>
+        <a href="https://t.me/sadeghsgalaxy" target="_blank" rel="noreferrer">Telegram ↗</a>
+        <a href="#home">Back to top ↑</a>
+      </div>
+    </div>
+    <div class="footer-bottom"><span>© <span id="year"></span> Sadegh Sharbaf</span><span>Made with curiosity <b>✳</b></span></div>
+  </footer>
+</body>
+</html>
