@@ -1,144 +1,131 @@
-<div style="width:100%;display:flex;justify-content:center;padding:40px 0;background:#0b0b0b;">
-  <div style="
-      width: min(900px, 95%);
-      padding: 42px;
-      border-radius: 12px;
-      background-image: url('/mnt/data/A_digital_graphic_design_banner_features_a_dark_th.png');
-      background-size: cover;
-      background-position: center;
-      box-shadow: 0 8px 30px rgba(2,6,23,0.7);
-      display:flex;
-      align-items:center;
-      justify-content:center;
-  ">
-    <div style="backdrop-filter: blur(6px); padding: 22px 28px; border-radius:8px; width:100%; max-width:820px;">
-      <h2 style="
-          margin:0;
-          font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-          font-weight:700;
-          font-size:26px;
-          line-height:1.25;
-          text-align:center;
-          color: #eaf2ff;
-          background: linear-gradient(90deg,#3aa0ff,#6cc0ff);
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-          filter: drop-shadow(0 6px 18px rgba(0,0,0,0.7));
-      ">
-        We are what we repeatedly do;
-      </h2>
-      <p style="
-          margin:12px 0 0 0;
-          text-align:center;
-          font-family: 'Courier New', Courier, monospace;
-          color:#cfd8e6;
-          font-size:18px;
-      ">
-        excellence, then, is not an act, but a habit.
-      </p>
-      <p style="margin:14px 0 0 0;text-align:center;color:#94b6e6;font-size:13px;">
-        — Aristotle
-      </p>
+<div align="center">
+  <img src="./profile-banner.svg" alt="Sadegh Sharbaf — Software Developer, Backend Engineer, AI Integration" width="100%" />
 
-  </div>
+  <p>
+    <strong>Software Developer</strong> · <strong>Backend Engineer</strong> · <strong>AI Integration</strong>
+  </p>
+
+  <p>
+    Designing and building software applications, engineering reliable backend systems,<br />
+    and integrating AI to make products and workflows smarter.
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/sadeghsharbaf/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://t.me/sadeghsgalaxy">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="mailto:mohammadsadeghsherbaf@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/SadeghSharbaf">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
+
+---
+
+## About Me
+
+I'm a software developer with **3+ years of experience** designing and developing software products and applications. My core background is in **backend engineering**, and I also work on integrating AI capabilities into software to build smarter applications, workflows, and systems.
+
+I enjoy turning complex requirements into maintainable products — from backend architecture and APIs to data layers, asynchronous processes, and practical AI integration.
+
+## What I Work On
+
+| Area | Focus |
+|---|---|
+| **Software & Application Development** | Designing and building practical, maintainable software products |
+| **Backend Engineering** | Modular architecture, RESTful APIs, business logic, and service development |
+| **AI Integration** | Bringing AI capabilities into existing applications and new products |
+| **Intelligent Systems** | Automating workflows and making software systems smarter |
+| **Data & Infrastructure** | Database design, asynchronous processing, caching, and containerized environments |
+
+## Tech Stack
+
+### Languages & Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Databases, Processing & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+### Development Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+## AI in Software
+
+My interest in AI goes beyond experimenting with models. I focus on **applying AI inside real software products** — connecting intelligent capabilities to application workflows, improving how users interact with systems, and automating tasks that traditionally require manual work.
+
+- AI-powered features in software applications
+- Intelligent workflows and task automation
+- Connecting AI capabilities with backend services and APIs
+- Making existing systems more useful through practical AI integration
+
+## Engineering Principles
+
+- **Modular architecture** — building systems that are easier to extend and maintain
+- **Clean and reliable APIs** — keeping integrations predictable and consistent
+- **Thoughtful data design** — choosing structures that support real application needs
+- **Practical problem solving** — selecting technology based on the problem, not the trend
+- **Continuous learning** — improving through building, reviewing, and experimenting
+
+## GitHub Activity
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SadeghSharbaf&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
+    height="165"
+    alt="Sadegh's GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeghSharbaf&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    height="165"
+    alt="Most used programming languages"
+  />
 </div>
 
 <div align="center">
-  <img src="./Sadegh's Logo1.png" alt="banner" />
+  <img
+    src="https://streak-stats.demolab.com?user=SadeghSharbaf&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    width="70%"
+    alt="GitHub contribution streak"
+  />
 </div>
 
-## 💫 About Me
-👨‍💻 Backend Developer (Python / Django / DRF)  
-🚀 3+ years building scalable backend systems and RESTful APIs  
-🎯 Focused on clean code, modular architecture, and best practices  
-📚 Experienced in database design, Dockerized environments and async processing with Celery/Redis  
-🔧 Tech Stack: Python, Django, Django REST Framework, PostgreSQL & more  
-🌱 Always learning and improving, with a passion for backend engineering
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SadeghSharbaf&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
+</div>
 
-<br>
-<img src="https://raw.githubusercontent.com/arvinmaroufi/arvinmaroufi/output/snake.svg" alt="Snake animation" />
+---
 
-<br>
-
-## 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app?username=SadeghSharbaf&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-
-<br>
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sadeghsharbaf/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sadeghsgalaxy)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadsadeghsherbaf@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SadeghSharbaf)
-
-
-<br>
-
-## ⚙️ Skills & Tools
-
-### 💻 Languages & Markup
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🚀 Frameworks & Libraries
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/django%20rest%20framework-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-### 💾 Databases
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ⚒️ Development Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-<br>
-
-## 🌟 Soft Skills
-<table>
-  <thead>
-    <tr>
-      <th>Problem Solving</th>
-      <th>Team Collaboration</th>
-      <th>Responsibility</th>
-      <th>Time Management</th>
-      <th>Attention to Detail</th>
-      <th>Fast Learning</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr align="center">
-      <td>✔️</td>
-      <td>✔️</td>
-      <td>✔️</td>
-      <td>✔️</td>
-      <td>✔️</td>
-      <td>✔️</td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-## 💬 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sadeghsharbaf/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sadeghsgalaxy)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadsadeghsherbaf@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SadeghSharbaf)
-
-
-<br>
-
-## 📊 GitHub Stats
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SadeghSharbaf&radius=16&theme=github-dark&area=true&order=5" height="280" alt="activity-graph graph" />
-
-![](https://github-contributor-stats.vercel.app/api?username=SadeghSharbaf&limit=5&theme=holi&combine_all_yearly_contributions=true)<br>
-[![](https://streak-stats.demolab.com?user=SadeghSharbaf&background=030314&border=ffffff&ring=5090CB&fire=5090CB&currStreakNum=D6E7FF&sideNums=D6E7FF&currStreakLabel=5090CB&sideLabels=5090CB&dates=ffffff)](https://git.io/streak-stats)<br>
-![](https://github-readme-stats.vercel.app/api?username=SadeghSharbaf&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SadeghSharbaf&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
+<div align="center">
+  <h3>Let's Build Something Meaningful.</h3>
+  <p>Have an idea, a software challenge, or an opportunity to collaborate?</p>
+  <a href="mailto:mohammadsadeghsherbaf@gmail.com">
+    <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-2389DA?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Get in touch" />
+  </a>
+  <br /><br />
+  <sub>Building · Learning · Improving</sub>
+</div>
